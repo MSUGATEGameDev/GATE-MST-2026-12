@@ -67,7 +67,7 @@ GameObject:
   - component: {fileID: 7353640399158530261}
   - component: {fileID: 2292764595987268538}
   m_Layer: 0
-  m_Name: Soccer Champion Trophy
+  m_Name: Congrats!
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
